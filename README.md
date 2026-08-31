@@ -103,7 +103,7 @@ What you must add before submission
 - Export a SQL backup of the database used (e.g. `pg_dump`) and include it in the ZIP delivery.
 
 Repository URL :
-https://github.com/YOUR_USER/YOUR_REPO](https://github.com/Kerin0011/Performance-testt/
+https://github.com/Kerin0011/Performance-testt/
 
 If you want, I can now:
 - run the tests locally,
