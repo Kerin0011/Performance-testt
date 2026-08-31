@@ -33,7 +33,6 @@ Available npm scripts
 - `npm run dev` — start in development with automatic restarts
 - `npm run build` — compile TypeScript to `dist/`
 - `npm start` — run compiled app
-- `npm test` — run Jest tests with coverage
 
 Environment variables (example)
 
