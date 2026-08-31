@@ -67,15 +67,6 @@ Example using `curl`:
 ```bash
 curl -X POST -H "Authorization: Bearer <ADMIN_TOKEN>" -F "file=@data.json" http://localhost:3000/api/seed
 ```
-
-Testing
-
-Run unit/integration tests with:
-
-```bash
-npm test
-```
-
 Docker
 
 You can run the application and Postgres with Docker Compose:
@@ -94,17 +85,9 @@ Submission checklist (per assessment)
 - Logical validations: clinic NIT uniqueness, inventory checks, valid request states, quantity > 0.
 - Soft deletion strategy: requests use a `deleted` flag for logical deletes if implemented.
 - Dockerfile and `docker-compose.yml` included.
-- At least two unit/integration tests present and coverage report available after `npm test`.
 
-What you must add before submission
-- Fill in your `Name`, `Clan`, and public GitHub repository URL where requested above.
-- Export a SQL backup of the database used (e.g. `pg_dump`) and include it in the ZIP delivery.
 
 Repository URL :
 https://github.com/Kerin0011/Performance-testt/
 
-If you want, I can now:
-- run the tests locally,
-- start the app in Docker Compose,
-- or convert the remaining JS files from the example project to strict TypeScript.
 
