@@ -5,10 +5,8 @@ This repository contains the backend API for managing supply requests for clinic
 Please replace the placeholder values below (name, clan, repo URL) with your real information before submitting.
 
 Summary
-- Name: Kerin Barranco Martinez
-- Clan: Clan Node PM
 - Name: Kerin Barranco
-- Clan: clan node JS PM
+- Clan:  node JS PM
 - Technologies: Node.js, TypeScript, Express, Sequelize, PostgreSQL, JWT, Multer, Swagger, Jest, Docker
 
 Quick start
