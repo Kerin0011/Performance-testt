@@ -7,7 +7,7 @@ Please replace the placeholder values below (name, clan, repo URL) with your rea
 Summary
 - Name: Kerin Barranco
 - Clan:  node JS PM
-- Technologies: Node.js, TypeScript, Express, Sequelize, PostgreSQL, JWT, Multer, Swagger, Jest, Docker
+- Technologies: Node.js, TypeScript, Express, Sequelize, PostgreSQL, JWT, Multer, Swagger, Docker
 
 Quick start
 
