@@ -5,11 +5,9 @@ This repository contains the backend API for managing supply requests for clinic
 Please replace the placeholder values below (name, clan, repo URL) with your real information before submitting.
 
 Summary
-- Name: YOUR NAME HERE
-- Clan: YOUR CLAN HERE
 - Name: Kerin Barranco
-- Clan: clan node JS PM
-- Technologies: Node.js, TypeScript, Express, Sequelize, PostgreSQL, JWT, Multer, Swagger, Jest, Docker
+- Clan:  node JS PM
+- Technologies: Node.js, TypeScript, Express, Sequelize, PostgreSQL, JWT, Multer, Swagger, Docker
 
 Quick start
 
@@ -58,7 +56,7 @@ API endpoints (high level)
 - `POST /api/requests/:id/assign` — Assign a request to a warehouse (ADMIN only).
 - `PATCH /api/requests/:id/status` — Update request status (authenticated). Status transitions check inventory on `APPROVED`.
 - `POST /api/seed` — Upload a JSON file (multipart/form-data `file` field) to seed the database (ADMIN only).
-- Swagger UI is available at `/api-docs` when the server is running.
+- Swagger UI is available at `/docs` when the server is running.
 
 Seed example
 
@@ -102,8 +100,8 @@ What you must add before submission
 - Fill in your `Name`, `Clan`, and public GitHub repository URL where requested above.
 - Export a SQL backup of the database used (e.g. `pg_dump`) and include it in the ZIP delivery.
 
-Repository URL (replace with your repo):
-https://github.com/YOUR_USER/YOUR_REPO
+Repository URL :
+https://github.com/Kerin0011/Performance-testt/
 
 If you want, I can now:
 - run the tests locally,
